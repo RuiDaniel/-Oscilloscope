@@ -1,2 +1,0 @@
-# -Oscilloscope
-Electronic Systems Project
